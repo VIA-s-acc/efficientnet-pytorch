@@ -35,7 +35,7 @@ class Trainer:
         self.num_epochs = num_epochs
         self.output_dir = output_dir
 
-        self.num_classes = 2
+        self.num_classes = 6
 
         self.epoch = 1
         self.best_acc = 0
